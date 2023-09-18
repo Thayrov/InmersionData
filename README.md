@@ -1,6 +1,8 @@
 # Inmersión en Datos con Python - Alura LATAM
 
-![LogoAlura](https://www.aluracursos.com/assets/img/imersoes/alura-latam-logo.1686744883.png) 
+<p align="center">
+  <img src="https://www.aluracursos.com/assets/img/imersoes/alura-latam-logo.1686744883.png" width="200">
+</p>
 
 Bienvenidos al repositorio de mi curso de inmersión en datos con Python ofrecido por Alura LATAM.
 
