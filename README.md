@@ -24,8 +24,6 @@ Este repositorio contiene todos los notebooks, bases de datos y archivos necesar
 3. **Clase 03 - Profundizando el análisis exploratorio**
 4. **Clase 04 - Cruzando bases y Machine Learning**
 
-Cada clase tiene un directorio separado con todos los recursos necesarios.
-
 ## Desafíos
 
 Para cada clase, hay varios desafíos que amplían el aprendizaje y permiten aplicar los conocimientos adquiridos.
